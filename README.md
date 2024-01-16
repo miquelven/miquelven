@@ -1,4 +1,4 @@
-# Olá! Eu sou o miquelven 🙂
+# Olá! Eu sou o Miquelven 🙂
 
 <div align='justify'>
   Minha atração pela tecnologia começou com o desejo de criar um jogo, impulsionando minha jornada na programação. Enfrento os desafios como combustível para minha dedicação, permanecendo firme diante das dificuldades. Nas horas vagas gosto de ler, jogar, séries. Sempre busco o progresso.
