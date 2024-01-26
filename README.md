@@ -24,8 +24,8 @@
 
 
   <div align='center'>
-  <img align='left'  width='400rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=dracula'>
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=miquelven&theme=tokyonight&rank_icon=github&show_owner=true&hide_title=fals&card_width=300&show_icons=true&bg_color=90,000000,040449&hide=stars,prs,issues,contribs'/>
+  <img align='left'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=dracula'>
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=miquelven&theme=tokyonight&rank_icon=github&show_owner=true&hide_title=fals&card_width=200&show_icons=true&bg_color=90,000000,040449&hide=stars,prs,issues,contribs'/>
 
   </div>
 
