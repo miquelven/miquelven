@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600178&height=70&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c1144&height=70&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=500&color=600178&center=true&vCenter=true&random=false&width=1000&lines=Bem+Vindo(a);Sou+o+Miquelven;Tenho+19+anos;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=500&color=570182&center=true&vCenter=true&random=false&width=1000&lines=Bem+Vindo(a);Sou+o+Miquelven;Tenho+19+anos;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
 </br>
 </br>
@@ -59,14 +59,14 @@
 </div>
 
 
-</div> 
-</br>
+
+
 <div>
-<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/1bdd201d-c97b-428e-995f-c7d778bf2988' align='left' height='125'>
 
 </br>
 </br>
 
+<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/b824c831-f356-49cb-acd3-8ce8a6d718b5' align='left' height='125'>
     
   <img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
 
