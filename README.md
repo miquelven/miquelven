@@ -4,8 +4,6 @@
 
 </br>
 </br>
-</br>
-</br>
 
   
 # **Tecnologias**
@@ -13,16 +11,17 @@
 
 </br>
 </br>
-<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='45' />
-<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='45' />
-<img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='45' />
-<img src='https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117' height='45' />
-<img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' height='45' />
-&nbsp;
-&nbsp;
+
+
 <div align='center'>
-<img src='https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117' height='45' />
-<img src='https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117' height='45' />
+
+<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117' height='35' />
   
   
 </div> 
@@ -36,10 +35,7 @@
 
 
 
-<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/1bdd201d-c97b-428e-995f-c7d778bf2988' align='left' height='125'>
 
-    
-  <img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
 
 
 
@@ -65,3 +61,15 @@
 
 </div> 
 </br>
+<div>
+<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/1bdd201d-c97b-428e-995f-c7d778bf2988' align='left' height='125'>
+
+</br>
+</br>
+
+    
+  <img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
+
+  
+</div>
+
