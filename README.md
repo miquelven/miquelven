@@ -1,36 +1,62 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=600178&height=70&section=header"/>
 
-#### Olá! Eu sou o **Miquelven** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=500&color=600178&center=true&vCenter=true&random=false&width=1000&lines=Bem+Vindo(a);Sou+o+Miquelven;Tenho+19+anos;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=29&pause=1000&color=F7F7F7&background=FFFFFF00&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Desenvolvedor+%7C+Front-End)](https://git.io/typing-svg)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<div align='justify'>
-  <p>
-  👨🏻‍💻 Apaixonado por tecnologia, busco sempre aprender e evoluir enquanto crio projetos variados com o objetivo de resolver algum problema ou por hobby. 
-  </p>
-  <p>
-    Com determinação e vontade sigo evoluindo e buscando ser melhor.
-  </p>
+  
+# **Tecnologias**
+
+&nbsp;
+&nbsp;
+<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='45' />
+<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='45' />
+<img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='45' />
+<img src='https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117' height='45' />
+<img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' height='45' />
+&nbsp;
+&nbsp;
+<div align='center'>
+<img src='https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117' height='45' />
+<img src='https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117' height='45' />
+  
+  
+</div> 
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+
+<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/1bdd201d-c97b-428e-995f-c7d778bf2988' align='left' height='125'>
+
+    
+  <img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
+
+
+
+&nbsp;
+&nbsp;
+
+<div align='center'>
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=miquelven&theme=shadow-purple&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+
+</div>
+
+<div align='center'>
+
+&nbsp;
+&nbsp;
+  
+![miquelven github activity graph](https://ssr-contributions-svg.vercel.app/_/miquelven?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
+  
+</div>
+
+
 </div> &nbsp;
-<div style='display:inline-block'>
-  
-## **Tecnologias**
-
-
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117)&nbsp;
-![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117)&nbsp; 
-![Nuxtjs](https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117)&nbsp; 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  
-</div> </br> </br>
-
-
-  <div align='center'>
-  <img align='left'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=miquelven&theme=midnight-purple&rank_icon=github&show_owner=true&hide_title=fals&card_width=200&show_icons=true&bg_color=90,000000,040449&hide=stars,prs,issues,contribs'/>
-
-  </div>
-
-
