@@ -2,16 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=500&color=600178&center=true&vCenter=true&random=false&width=1000&lines=Bem+Vindo(a);Sou+o+Miquelven;Tenho+19+anos;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+</br>
+</br>
+</br>
+</br>
 
   
 # **Tecnologias**
 
-&nbsp;
-&nbsp;
+
+</br>
+</br>
 <img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='45' />
 <img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='45' />
 <img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='45' />
@@ -26,9 +27,11 @@
   
 </div> 
 
-&nbsp;
-&nbsp;
-&nbsp;
+
+</br>
+</br>
+</br>
+
 
 
 
@@ -40,8 +43,8 @@
 
 
 
-&nbsp;
-&nbsp;
+</br>
+</br>
 
 <div align='center'>
   
@@ -51,12 +54,14 @@
 
 <div align='center'>
 
-&nbsp;
-&nbsp;
+
+</br>
+</br>
   
 ![miquelven github activity graph](https://ssr-contributions-svg.vercel.app/_/miquelven?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
   
 </div>
 
 
-</div> &nbsp;
+</div> 
+</br>
