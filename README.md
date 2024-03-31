@@ -66,9 +66,9 @@
 </br>
 </br>
 
-<img src='https://github.com/miquelven/games_in_a_game/assets/67767211/b824c831-f356-49cb-acd3-8ce8a6d718b5' align='left' height='125'>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
     
-  <img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
+<img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
 
   
 </div>
