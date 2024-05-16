@@ -15,9 +15,9 @@
 
 <div align='center'>
 
-<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='35' />
 <img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='35' />
+<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='35' />
 <img src='https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117' height='35' />
 <img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' height='35' />
 <img src='https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117' height='35' />
