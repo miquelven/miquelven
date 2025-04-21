@@ -1,68 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c1144&height=70&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=dd2525&height=70&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=500&color=570182&center=true&vCenter=true&random=false&width=1000&lines=Bem+Vindo(a);Sou+o+Miquelven;Tenho+20+anos;Sou+Desenvolvedor+Front+End)](https://git.io/typing-svg)
-
-</br>
-</br>
-
-  
-# **Tecnologias**
-
-
-</br>
-</br>
-
-
-<div align='center'>
-
-<img src='https://img.shields.io/badge/-Nuxtjs-0D1117?style=for-the-badge&logo=nuxtdotjs&labelColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-Vuejs-0D1117?style=for-the-badge&logo=vuedotjs&labelColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=tailwindcss&textColor=0D1117' height='35' />
-<img src='https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&textColor=0D1117' height='35' />
-
-  
-  
-</div> 
-
-
-</br>
-</br>
-</br>
-
-
-
-
-
-
+## Fala aí! Sou um desenvolvedor Front End de 20 anos, sempre explorando novas ideias e tecnologias.  
+Este repositório está em constante evolução, então fique à vontade para acompanhar as atualizações.
 
 
 
 </br>
+</br>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" alt="Material UI" title="Material UI"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" alt="Sass" title="Sass"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" alt="Atom" title="Atom"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" alt="ShadCn UI" title="ShadCn UI"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+</div>
+
 </br>
 
 <div align='center'>
 
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_radius=10&border_color=0d1117">
 
-</br>
-</br>
-  
 </div>
-
-
-
-
-<div>
-
-</br>
-</br>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="left">
-    
-<img align='right'  width='350rem' src='https://github-readme-stats.vercel.app/api/top-langs/?username=miquelven&layout=compact&theme=midnight-purple'>
-
-  
-</div>
-
