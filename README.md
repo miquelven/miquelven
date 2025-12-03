@@ -22,7 +22,7 @@
 
 ---
 
-Tenho 20 anos e sou um desenvolvedor Front-end focado em construir **interfaces rápidas, modernas e escaláveis**.  
+Tenho 21 anos e sou um desenvolvedor Front-end focado em construir **interfaces rápidas, modernas e escaláveis**.  
 Acredito em código limpo, boa arquitetura, atenção aos detalhes e performance como prioridade.
 
 Hoje, atuo criando experiências fluidas em **React, Next.js, TypeScript** e **React Native**, sempre pensando em UX/UI.
