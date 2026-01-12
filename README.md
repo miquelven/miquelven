@@ -6,7 +6,9 @@
 
 - 👯 Estou buscando compartilhar conhecimento e colaborar com novos devs!
 
-- 📫 Entre em contato aqui **miquelven.silva@gmail.com** ou <a href="www.linkedin.com/in/miquelven" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miquelven" height="20" /></a>
+- 📫 Entre em contato aqui **miquelven.silva@gmail.com** ou <a href="https://www.linkedin.com/in/miquelven" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="miquelven" height="20" />
+</a>
 
 - 🚀 Tecnologias e ferramentas que domino: 
 
